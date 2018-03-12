@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Dialogs/EchoDialog.cs">
     <Files>
       <File FileName="Controllers/MessagesController.cs" Line="1" Column="1" />
-      <File FileName="Dialogs/EchoDialog.cs" Line="23" Column="41" />
+      <File FileName="Dialogs/EchoDialog.cs" Line="30" Column="84" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
